@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chinthaka_w\\Documents\\projects_visual_studio\\ABCCarTradersApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{618DA6AC-6FA7-4460-93D7-9FF7F5AABD5E}|ABCCarTradersApp.csproj|c:\\users\\chinthaka_w\\documents\\projects_visual_studio\\abccartradersapp\\forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618DA6AC-6FA7-4460-93D7-9FF7F5AABD5E}|ABCCarTradersApp.csproj|solutionrelative:forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\chinthaka_w\\Documents\\projects_visual_studio\\ABCCarTradersApp\\Forms\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerDashboard.cs",
+              "ToolTip": "C:\\Users\\chinthaka_w\\Documents\\projects_visual_studio\\ABCCarTradersApp\\Forms\\CustomerDashboard.cs",
+              "RelativeToolTip": "Forms\\CustomerDashboard.cs",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAgwM4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:29:36.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
